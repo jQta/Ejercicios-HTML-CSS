@@ -1,0 +1,75 @@
+.color-orange {
+    color: orange;
+  }
+  .color-red {
+    color: red;
+  }
+  .color-green {
+    color: green;
+  }
+  .color-blue {
+    color: blue;
+  }
+  .text-60 {
+    font-size: 60px;
+  }
+  .bold {
+    font-weight: bold;
+  }
+  .lucida {
+    font-family: Lucida Console;
+  }
+  .no-decoration {
+    text-decoration: none;
+  }
+  .underline {
+    text-decoration: underline;
+  }
+  .striked {
+    text-decoration: line-through;
+  }
+  .uppercase {
+    text-transform: uppercase;
+  }
+  .lowercase {
+    text-transform: lowercase;
+  }
+  .capitalize {
+    text-transform: capitalize;
+  }
+  .box {
+      width: 150px;
+      height: 50px;
+    display:inline-block; /*Un elemento inline no puede tener ni alto ni ancho definidos por eso se usa -block*/
+  }
+  .box2 {
+      width: 150px;
+      height: 50px;
+    border: 2px solid black;
+  }
+  .box-centered {
+      width: 100px;
+      height: 100px;
+      background-color: cornflowerblue;
+      border: 1px solid black;
+      margin: 0 auto;
+    margin-bottom: 5px;
+  }
+  .has-margin {
+      background-color: green;
+      margin: 5px 0px;
+    border: 2px solid red;
+  }
+  .text-container {
+      padding-left: 25px;
+      border: 2px solid blue;
+  }
+  .red-background {
+      background-color: red;
+  }
+  .yellow-background {
+      background-color: yellow;
+  }
+  .blue-background {
+      background-color: blue;
+  }
